@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "161244762500",
+    "firebase_url": "https://helloworld-ec048.firebaseio.com",
+    "project_id": "helloworld-ec048",
+    "storage_bucket": "helloworld-ec048.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161244762500:android:2c264cdde7d693aa8b8dd1",
+        "android_client_info": {
+          "package_name": "com.example.helloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161244762500-r27fpq1pi7bp670fsm7dt6fgqpljasdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHFp0nMKsNZmcWcykG3SCmalAkOqqnZ7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161244762500-r27fpq1pi7bp670fsm7dt6fgqpljasdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161244762500:android:d9f8472980e0f8f78b8dd1",
+        "android_client_info": {
+          "package_name": "com.hellojames.loginwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161244762500-r27fpq1pi7bp670fsm7dt6fgqpljasdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHFp0nMKsNZmcWcykG3SCmalAkOqqnZ7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161244762500-r27fpq1pi7bp670fsm7dt6fgqpljasdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
