@@ -1,4 +1,4 @@
-package com.example.loginwithfirebase.data.model;
+package com.hellojames.loginwithfirebase.data.model;
 
 import com.google.firebase.auth.FirebaseUser;
 

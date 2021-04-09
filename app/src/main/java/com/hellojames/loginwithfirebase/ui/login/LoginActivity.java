@@ -1,4 +1,4 @@
-package com.example.loginwithfirebase.ui.login;
+package com.hellojames.loginwithfirebase.ui.login;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -18,8 +18,8 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.lifecycle.Observer;
 import androidx.lifecycle.ViewModelProviders;
 
-import com.example.loginwithfirebase.MainActivity;
-import com.example.loginwithfirebase.R;
+import com.hellojames.loginwithfirebase.MainActivity;
+import com.hellojames.loginwithfirebase.R;
 
 public class LoginActivity extends AppCompatActivity {
 

@@ -1,4 +1,4 @@
-package com.example.loginwithfirebase.ui.login;
+package com.hellojames.loginwithfirebase.ui.login;
 
 import androidx.annotation.Nullable;
 

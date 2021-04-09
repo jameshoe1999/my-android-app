@@ -1,6 +1,6 @@
-package com.example.loginwithfirebase.data;
+package com.hellojames.loginwithfirebase.data;
 
-import com.example.loginwithfirebase.data.model.LoggedInUser;
+import com.hellojames.loginwithfirebase.data.model.LoggedInUser;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseUser;

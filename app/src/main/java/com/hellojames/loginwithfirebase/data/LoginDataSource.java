@@ -1,4 +1,4 @@
-package com.example.loginwithfirebase.data;
+package com.hellojames.loginwithfirebase.data;
 
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.AuthResult;

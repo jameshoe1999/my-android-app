@@ -1,11 +1,11 @@
-package com.example.loginwithfirebase.ui.login;
+package com.hellojames.loginwithfirebase.ui.login;
 
 import androidx.annotation.NonNull;
 import androidx.lifecycle.ViewModel;
 import androidx.lifecycle.ViewModelProvider;
 
-import com.example.loginwithfirebase.data.LoginDataSource;
-import com.example.loginwithfirebase.data.LoginRepository;
+import com.hellojames.loginwithfirebase.data.LoginDataSource;
+import com.hellojames.loginwithfirebase.data.LoginRepository;
 
 /**
  * ViewModel provider factory to instantiate LoginViewModel.

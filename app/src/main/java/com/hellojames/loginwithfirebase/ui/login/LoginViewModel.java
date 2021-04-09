@@ -1,4 +1,4 @@
-package com.example.loginwithfirebase.ui.login;
+package com.hellojames.loginwithfirebase.ui.login;
 
 import android.util.Patterns;
 
@@ -6,10 +6,10 @@ import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
-import com.example.loginwithfirebase.R;
-import com.example.loginwithfirebase.data.LoginRepository;
-import com.example.loginwithfirebase.data.Result;
-import com.example.loginwithfirebase.data.model.LoggedInUser;
+import com.hellojames.loginwithfirebase.R;
+import com.hellojames.loginwithfirebase.data.LoginRepository;
+import com.hellojames.loginwithfirebase.data.Result;
+import com.hellojames.loginwithfirebase.data.model.LoggedInUser;
 import com.google.firebase.auth.FirebaseAuthEmailException;
 import com.google.firebase.auth.FirebaseAuthInvalidCredentialsException;
 import com.google.firebase.auth.FirebaseAuthInvalidUserException;

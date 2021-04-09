@@ -1,4 +1,4 @@
-package com.example.loginwithfirebase;
+package com.hellojames.loginwithfirebase;
 
 import android.content.DialogInterface;
 import android.content.Intent;
@@ -18,10 +18,10 @@ import androidx.appcompat.widget.Toolbar;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModelProviders;
 
-import com.example.loginwithfirebase.data.model.LoggedInUser;
-import com.example.loginwithfirebase.ui.login.LoginActivity;
-import com.example.loginwithfirebase.ui.login.LoginViewModel;
-import com.example.loginwithfirebase.ui.login.LoginViewModelFactory;
+import com.hellojames.loginwithfirebase.data.model.LoggedInUser;
+import com.hellojames.loginwithfirebase.ui.login.LoginActivity;
+import com.hellojames.loginwithfirebase.ui.login.LoginViewModel;
+import com.hellojames.loginwithfirebase.ui.login.LoginViewModelFactory;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.auth.UserProfileChangeRequest;
